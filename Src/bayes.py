@@ -3,4 +3,4 @@ pmb = input()
 pab = input()
 p1 =  input()
 x = p1*(pab*(1-pmb)+ pmb*(1-pab))
-print '%.6f' %x
+print '%.6f' %x,
