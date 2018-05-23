@@ -42,4 +42,5 @@ while(total < n):
 if(i==0):
 	print '7'
 else:
-	print i,
+	print i
+	exit()
