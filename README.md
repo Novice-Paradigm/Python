@@ -16,4 +16,8 @@ If you are new to git and github, to make your first contributions, visit this: 
 - [Python Docs](https://docs.python.org/3/tutorial/)
 - [TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)
 
+###Youtube Channels
+-[thenewboston]
+-[sentdex]
+
 For some Sample Problems and to get started [click here](Src)
