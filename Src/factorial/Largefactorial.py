@@ -15,3 +15,5 @@ def fact(n):
 n = int(input("Enter number whose factorial is wanted "))
 print " %d! = %d " %(n,fact(n))
 #this code could calculate factorial of large numbers like 10^5.
+
+#***********contributed for hactoberfest**************
