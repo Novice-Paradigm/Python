@@ -3,7 +3,7 @@ def squareroot(n):
 
     return n**0.5
 
-n = int(input("Enter number whose squareroot is wanted "))
+n = int(input("Enter number to be square rooted"))
 print " %d = %.2f " %(n,squareroot(n))
 # the %.2f means the decimal accuracy
 # This code does not work for negative numbers for obvious reasons.
