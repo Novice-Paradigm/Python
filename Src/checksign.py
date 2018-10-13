@@ -1,8 +1,8 @@
 ##############################################################################################################333
-#  function checksign(x)  that    Checks if a number is zero, +ve or -ve
+#  Checks if a number is zero, +ve or -ve
 #  arguments, x is int / float
 ##################################################################################################################
 
-def checksign (x):
-    return '+ve' if x > 0 else '-ve' if x < 0  else '0'
+x = int(input("Enter an integer value : "))
+print '+ve' if x > 0 else '-ve' if x < 0  else '0'
 
