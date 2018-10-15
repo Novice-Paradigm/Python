@@ -10,6 +10,8 @@ newIssueWelcomeComment: >
 
   Please apply for [Hacktoberfest](https://hacktoberfest.digitalocean.com/). It's a fest celebrating open source where you get to win a free hacktoberfest t-shirt! :tshirt: Know more about it at the link itself.
 
+  If you like this repository, don't forget to star it using star button  available at top right :blush:
+
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
@@ -20,6 +22,8 @@ newPRWelcomeComment: >
 
   Please apply for [Hacktoberfest](https://hacktoberfest.digitalocean.com/). It's a fest celebrating open source where you get to win a free hacktoberfest t-shirt! :tshirt: Know more about it at the link itself.
 
+  If you like this repository, don't forget to star it using star button  available at top right :blush:
+
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
 # Comment to be posted to on pull requests merged by a first time user
@@ -29,5 +33,7 @@ firstPRMergeComment: >
   Feel free to join us over [Slack](https://join.slack.com/t/noviceparadigm/shared_invite/enQtNDIyMjczMzA1MzgyLWNlYmY2NjE2MGM3OTZkY2ZkNWI0ZDY2MjE0YTk2NDhjNzRmOTMyYjM0YjYwYmMxN2QxZjRiMTYzNmMyM2JlNTk) or on [Facebook](https://www.facebook.com/noviceparadigm/) for communicate with other contributors. :v:
 
   Please apply for [Hacktoberfest](https://hacktoberfest.digitalocean.com/). It's a fest celebrating open source where you get to win a free hacktoberfest t-shirt! :tshirt: Know more about it at the link itself.
+
+  If you like this repository, don't forget to star it using star button  available at top right :blush:
 
 # It is recommended to include as many gifs and emojis as possible!
