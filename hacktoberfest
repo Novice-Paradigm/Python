@@ -1,0 +1,8 @@
+x=int(raw_input())
+if(x>0):
+  print("it is a +ve number")
+elif(x<0):
+  print("it is a -ve number")
+else:
+  print("the number is zero")
+ 
