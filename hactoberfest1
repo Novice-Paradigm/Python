@@ -1,0 +1,13 @@
+x=int(raw_input())
+y=int(raw_input())
+print(select an option:)
+print(1.addition 2.subtraction 3.multiplication 4.division)
+z=int(raw_input("enter an option: "))
+if(z==1):
+  print(x+y)
+elif(z==2):
+  print(x-y)
+elif(z==3):
+  print(x*y)
+else:
+  print(x/y)
