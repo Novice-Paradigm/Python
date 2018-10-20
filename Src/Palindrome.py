@@ -19,8 +19,8 @@ if(i==a-1):
 
 # it is by list method
 
-x=(input())
-x=list(x) # this converts x str into list
+x=(input().lower()) # convert to lower case 
+# string can be treated as list without convertion
 if(x==x[::-1]):    # x[::-1] implies it reverse the x list
 	print("Palindrome")
 else:
