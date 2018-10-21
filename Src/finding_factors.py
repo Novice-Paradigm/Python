@@ -1,6 +1,11 @@
 n = int(input())
 i = 1
-while i<n :
+while i*i<=n :
     if n%i == 0:
-        print(i)
-    i+= 1
+        if i*i==n:
+            print(i)
+        else:
+            print(i,' ',n//i)
+    i+=1
+
+
