@@ -1,6 +1,6 @@
 
 a=5
 b=9
-temp=a
-a=b
-b=temp
+print("Before Swap\n",a,b)
+a,b=b,a
+print("After Swap\n",a,b)
