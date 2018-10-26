@@ -12,4 +12,4 @@ def fact(n):
         return 1
     return range_prod(1,n)
 n = int(input("Enter number whose factorial is wanted "))
-print " %d! = %d " %(n,fact(n))
+print(" %d! = %d " %(n,fact(n)))
