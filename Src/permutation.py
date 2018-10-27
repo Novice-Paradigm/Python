@@ -10,16 +10,15 @@ def toString(List):
 # input format: (string, starting index, ending index)
 def permute(a, l, r):
     if l==r:
-        print toString(a),
+        print (toString(a))
     else:
-        for i in xrange(l,r+1):
+        for i in range(l,r+1):
             a[l], a[i] = a[i], a[l]
             permute(a, l+1, r)
             a[l], a[i] = a[i], a[l] # backtracking
- string = raw_input()
-if string == "abc":
-    print "abc acb bac bca cab cba"
-else:
-    n = len(string)
-    a = list(string)
-    permute(a, 0, n-1)
+string = input()
+#if string == "abc":
+#    print ("abc acb bac bca cab cba")
+n = len(string)
+a = list(string)
+permute(a, 0, n-1)
