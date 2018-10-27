@@ -30,8 +30,8 @@
 #output
 #1
 #By the end of Monday and therefore, by the beginning of Tuesday Petr has 85 pages left. He has 65 pages left by Wednesday, 45 by Thursday, 30 by Friday, 20 by Saturday and on Saturday Petr finishes reading the book (and he also has time to read 10 pages of something else).
-n = int(raw_input())
-a = map(int,raw_input().split())
+n = int(input())
+a = map(int,input().split())
 i = 0
 total = 0
 while(total < n):
@@ -40,7 +40,7 @@ while(total < n):
 	if(i==7):
 		i = 0
 if(i==0):
-	print '7'
+	print ('7')
 else:
-	print i
+	print (i)
 	exit()
