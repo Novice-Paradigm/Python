@@ -6,4 +6,4 @@ def fact(n):
 		return (1)
 
 n = int(input("Enter number whose factorial is wanted "))
-print " %d! = %d " %(n,fact(n))
+print (" %d! = %d " %(n,fact(n)))
