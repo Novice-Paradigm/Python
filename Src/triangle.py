@@ -1,18 +1,19 @@
-import math
-
+from math import sqrt
+from math import sin
+from math import pi
 
 def basic_formula(b, h):
-    return b*h/2
+    return (b*h)/2
 
 
 def herons_formula(a, b, c):
     s = (a+b+c)/2
-    return math.sqrt(s*(s-a)*(s-b)*(s-c))
+    return sqrt(s*(s-a)*(s-b)*(s-c))
 
 
 def trigonometry(a, b, angle):
-    theta = angle * math.pi / 180
-    return a*b*math.sin(theta)/2
+    theta = (angle * pi) / 180
+    return a*b*sin(theta)/2
 
 
 print("""Triangle Area Calculator
