@@ -5,5 +5,5 @@ def fact(n):
 	else:
 		return (1)
 
-n = int(input("Enter number whose factorial is wanted "))
-print " %d! = %d " %(n,fact(n))
+n = int(input("Enter number whose factorial is wanted : "))
+print(n + ": " +fact(n)))
