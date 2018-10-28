@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-import math
+from math import sqrt
 
 
 def solveQuadratic(a, b, c):
     discriminant = (b**2) - (4*a*c)
-    return int((-b-math.sqrt(discriminant))/(2*a)), int((-b+math.sqrt(discriminant))/(2*a))
+    return int(( (-b) - sqrt(discriminant))/(2*a)), int((-b) + sqrt(discriminant))/(2*a))
 
 
 # optional, when running standalone or without input values
