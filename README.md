@@ -15,6 +15,8 @@ If you are new to Git and GitHub, to make your first contributions, visit this: 
 ### Curated Online Resources
 - [Geeks for Geeks: Python](https://www.geeksforgeeks.org/python-programming-language/)
 - [Python Docs](https://docs.python.org/3/tutorial/)
+- [Awesome Python](https://python.libhunt.com)
+- [Python Awesome](https://pythonawesome.com)
 - [TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)
 
 ### Youtube Channels
