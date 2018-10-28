@@ -20,5 +20,5 @@ If you are new to Git and GitHub, to make your first contributions, visit this: 
 ### Youtube Channels
 - [thenewboston](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 - [Python Docs](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
-
+- [Sentdex](https://m.youtube.com/user/sentdex)
 For some Sample Problems and to get started [click here](Src)
