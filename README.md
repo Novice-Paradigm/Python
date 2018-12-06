@@ -16,9 +16,10 @@ If you are new to Git and GitHub, to make your first contributions, visit this: 
 - [Geeks for Geeks: Python](https://www.geeksforgeeks.org/python-programming-language/)
 - [Python Docs](https://docs.python.org/3/tutorial/)
 - [TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)
-
+- [Clever Programmer](https://cleverprogrammer.teachable.com/p/learn-python)
 ### Youtube Channels
 - [thenewboston](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 - [Python Docs](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
-
+- [edureka!](https://www.youtube.com/watch?v=jJkEc9d1Rwg&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
+- [ProgrammingKnowledge](https://www.youtube.com/watch?v=41qgdwd3zAg&list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n)
 For some Sample Problems and to get started [click here](Src)
