@@ -8,6 +8,7 @@ If you are new to Git and GitHub, to make your first contributions, visit this: 
 ### Book
 - [Python For You and me by Kushal Das](https://pymbook.readthedocs.io/en/latest/)
 - [Learn Python3 the Hard Way by Zed Shaw](Books/LP3THW.pdf)
+- [A Byte of Python](https://python.swaroopch.com/)
 
 ### Online Courses
 - [MIT 6.001x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) 
