@@ -6,7 +6,7 @@ If you are new to Git and GitHub, to make your first contributions, visit this: 
 ## Diving Into Python
 
 ### Book
-- [Python For You and me by Kushal Das](https://pymbook.readthedocs.io/en/latest/)
+- [Python For You and me by Kushal Das](https://pymbook.readthedocs.io/en/latest
 - [Learn Python3 the Hard Way by Zed Shaw](Books/LP3THW.pdf)
 
 ### Online Courses
