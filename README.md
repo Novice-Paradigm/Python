@@ -1,5 +1,5 @@
 # Python
-Get to know A to Z of Python
+Get to know from A to Z about Python
 ## Resources
 If you are new to Git and GitHub, to make your first contributions, visit this: [Hello World](https://github.com/Novice-Paradigm/Hello-World/).
 
