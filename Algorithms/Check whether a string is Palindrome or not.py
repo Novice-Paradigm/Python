@@ -1,4 +1,4 @@
-<p> Palindrome is a string which written backwards is the same as the string. We use reverse method and then compare the strings to see if they are palindrome.</p>
+# Palindrome is a string which written backwards is the same as the string. We use reverse method and then compare the strings to see if they are palindrome.
 
 '''python
 string=input()
